@@ -63,6 +63,22 @@ Each lab is implemented in a clean, well-documented **Jupyter Notebook** followi
 ├── Lab_10_22JZELE0457.ipynb
 ├── Lab_11_22JZELE0457.ipynb
 ├── Lab_12_22JZELE0457.ipynb
-├── Dataset/                  # Required datasets (train.csv, etc.)
+├── Dataset/                  
 ├── README.md
 └── requirements.txt
+
+🚀 How to Run
+1. Clone the repository:
+   git clone https://github.com/shaheer-khan57/Machine_Learning_Labs.git
+   cd Machine_Learning_Labs
+2. Install all required packages:
+   pip install -r requirements.txt
+3. Open any lab notebook:
+    jupyter notebook
+
+👤 Author
+Shaheer Khan
+Registration #: 22JZELE0457
+University: University of Engineering and Technology Peshawar (Nowshera Campus)
+
+
