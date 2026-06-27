@@ -48,3 +48,21 @@ Each lab is implemented in a clean, well-documented **Jupyter Notebook** followi
 ---
 
 ## 📁 Repository Structure
+
+```bash
+.
+├── Lab_1_22JZELE0457.ipynb
+├── Lab_2_22JZELE0457.ipynb
+├── Lab_3_22JZELE0457.ipynb
+├── Lab_4_22JZELE0457.ipynb
+├── Lab_5_22JZELE0457.ipynb
+├── Lab_6_22JZELE0457.ipynb
+├── Lab_7_22JZELE0457.ipynb
+├── Lab_8_22JZELE0457.ipynb
+├── Lab_9_22JZELE0457.ipynb
+├── Lab_10_22JZELE0457.ipynb
+├── Lab_11_22JZELE0457.ipynb
+├── Lab_12_22JZELE0457.ipynb
+├── Dataset/                  # Required datasets (train.csv, etc.)
+├── README.md
+└── requirements.txt
