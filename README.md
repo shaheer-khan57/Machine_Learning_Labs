@@ -33,8 +33,9 @@ Each lab is implemented in a clean, well-documented **Jupyter Notebook** followi
 ### **Block 4 — Traditional ML & Time-Series Models**
 - **[Lab 10](Lab_10_22JZELE0457.ipynb)**: MLP for Time-Series Forecasting  
 - **[Lab 11](Lab_11_22JZELE0457.ipynb)**: 1D CNN for Time-Series Forecasting  
-- **[Lab 12](Lab_12_22JZELE0457.ipynb)**: LSTM for Time-Series Forecasting  
-
+- **[Lab 12](Lab_12_22JZELE0457.ipynb)**: LSTM for Time-Series Forecasting
+### **Block 5 — Capstone Lab**
+- **[Lab 13](Open_Ended_Lab/Lab_13_22JZELE0457.ipynb)**: CityLearn Solar Generation Forecasting (LSTM) 
 ---
 
 ## 🛠️ Technologies Used
@@ -63,6 +64,9 @@ Each lab is implemented in a clean, well-documented **Jupyter Notebook** followi
 ├── Lab_10_22JZELE0457.ipynb
 ├── Lab_11_22JZELE0457.ipynb
 ├── Lab_12_22JZELE0457.ipynb
+├── Open_Ended_Lab/
+│   └── Lab_13_22JZELE0457.ipynb
+│   └── Building_2.csv
 ├── Dataset/                  
 ├── README.md
 └── requirements.txt
